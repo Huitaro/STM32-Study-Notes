@@ -1,8 +1,0 @@
-*.o
-*.d
-*.axf
-*.map
-*.lst
-*.dep
-Objects/
-Listings/
