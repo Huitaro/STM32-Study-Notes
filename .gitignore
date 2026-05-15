@@ -1,0 +1,16 @@
+# Keil MDK 编译产物
+*.o
+*.d
+*.axf
+*.map
+*.lst
+*.dep
+*.crf
+*.htm
+*.build_log.htm
+*.lnp
+*.sct
+*.hex
+Objects/
+Listings/
+DebugConfig/
